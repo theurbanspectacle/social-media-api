@@ -1,0 +1,23 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theurbanspectacle/social-media-api.git"
+  },
+  "author": "Genesis (Oliver Martin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theurbanspectacle/social-media-api/issues"
+  },
+  "homepage": "https://github.com/theurbanspectacle/social-media-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
